@@ -1,0 +1,17 @@
+.jmpress-gallery {
+	
+}
+
+.jmpress-gallery-item {
+	height: 2000px;
+	width: 2500px;
+}
+
+.jmpress-gallery-camera {
+	display: none;
+}
+
+.jmpress-gallery-image {
+	height: 100%;
+	width: 100%;
+}
