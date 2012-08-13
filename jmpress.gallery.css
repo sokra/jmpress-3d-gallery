@@ -5,6 +5,11 @@
 .jmpress-gallery-item {
 	height: 2000px;
 	width: 2500px;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+	backface-visibility: hidden;
 }
 
 .jmpress-gallery-camera {
